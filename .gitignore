@@ -1,0 +1,7 @@
+__pycache__/
+env/
+.vscode/
+setup.cfg
+.mypy_cache/
+*.exe
+.pytest_cache/
